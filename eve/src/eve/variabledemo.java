@@ -1,5 +1,5 @@
 package eve;
-
+//missing long variable
 public class variabledemo {
 
 	public static void main(String[] args) {
