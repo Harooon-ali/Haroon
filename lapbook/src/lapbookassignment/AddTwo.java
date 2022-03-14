@@ -7,7 +7,7 @@ public class AddTwo {
 		int second=200;
 		System.out.println(first+" "+second);
 		int sum=first+second;
-		System.out.println("The sum of the two is: "+sum);
+		System.out.println("The sum of the two is: "+sum);//dai
 		
 	}
 
